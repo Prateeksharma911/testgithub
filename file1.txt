@@ -1,1 +1,2 @@
 Hi this is new file which is in master
+Added new file in master to commit
